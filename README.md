@@ -1,6 +1,6 @@
 # HDB BTO Chatbot
 
-The Housing & Development Board (HDB) is the public housing authority in Singapore. This chatbot is designed to address questions related to Build-to-Order (BTO) flats. It is developed using Streamlit, Langchain and Chroma.
+The Housing & Development Board (HDB) is the public housing authority in Singapore. As someone who is awaiting the completion of my BTO, I found myself searching for relevant information on the HDB website. This prompted me to create this chatbot, which is designed to address questions related to Build-to-Order (BTO) flats. It is developed using Streamlit, Langchain and Chroma.
 
 ![assets/hdb_chatbot_logo.png](https://github.com/Joanna-Khek/hdb-bto-chatbot/blob/423cc17ee003c67292efb531f1b532724bb6aa55/assets/hdb_chatbot_logo.png)
 
