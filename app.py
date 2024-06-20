@@ -24,8 +24,9 @@ with st.sidebar:
 
 @st.cache_resource
 def initialise_setup(openai_api_key):
-    
-    # Test Connection
+    """
+    Initialise embeddings, llm and vector store
+    """
     embeddings = OpenAIEmbeddings(model='text-embedding-ada-002', openai_api_key=openai_api_key)
     llm = ChatOpenAI(model="gpt-3.5-turbo-0125", openai_api_key=openai_api_key)
 
