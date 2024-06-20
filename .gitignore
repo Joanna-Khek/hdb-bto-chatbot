@@ -1,0 +1,10 @@
+.venv
+data/
+db/
+outputs/
+chroma/
+generation.py
+helper.py
+*.ipynb
+retrieve_related_resources.py
+*__pycache__
