@@ -46,7 +46,8 @@ Question: {query}
 Answer:
 ```
 
-To make the response generation more 'robot' like, I also streamed the response by adding a delay to every character in the response output.
+I included the metadata (source URL) in the response so that I can visit the source link to verify the information.
+Also, to make the response generation more 'robot' like, I also streamed the response by adding a delay to every character in the response output.
 
 ## App
 App was built using Streamlit, which has become one of my favourite Python framework to develop data apps!
